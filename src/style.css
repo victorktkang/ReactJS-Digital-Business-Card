@@ -1,0 +1,164 @@
+body {
+    background-color:#23252C;;
+    font-family: 'Inter', sans-serif;
+}
+
+.maintitle {
+    text-align: center;
+    margin: auto;
+    margin-top: 0;
+    background: #F5F5F5;
+    width: 400px;
+}
+
+.name--text {
+    margin-bottom: 0;
+    font-size: 50px;
+    font-weight: 1000;
+    letter-spacing: -0.05em;
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+.developer--text {
+    margin-block: 0;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.website--text {
+    font-size: 15px;
+    margin-top: 0;
+    font-weight: 300;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.image {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    padding: 0;
+    display: block;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.emailbutton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 34px;
+    width: 317px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    padding: 9px 13px 9px 11px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+    margin-bottom: 1;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    background-color: white;
+}
+
+.emailbutton:hover {
+    background: rgb(223, 223, 223);
+}
+
+.Email--icon {
+    margin-right: 10px;
+    width: 15px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.emailbutton--background {
+    background: #F5F5F5;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 1;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.info {
+    background: #F5F5F5;
+    width: 400px;
+    margin: auto;
+}
+
+.info--about {
+    width: 315px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    background: #F5F5F5;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 7px;
+}
+
+.info--aboutContent {
+    width: 315px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    background: #F5F5F5;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+
+.info--interests {
+    width: 315px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    background: #F5F5F5;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 7px;
+}
+
+.info--interestsContent {
+    width: 315px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    background: #F5F5F5;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 50px;
+    font-weight: 400;
+}
+
+.socialmedia {
+    display: flex;
+    width: 400px;
+    background: #D5D4D8;
+    height: 70px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.socialmedia--icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+
